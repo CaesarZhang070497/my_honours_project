@@ -1,0 +1,72 @@
+@font-face {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 400;
+	src: url(Montserrat-normal-400.woff) format('woff');
+	unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 500;
+	src: url(Montserrat-normal-500.woff) format('woff');
+	unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 600;
+	src: url(Montserrat-normal-600.woff) format('woff');
+	unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 700;
+	src: url(Montserrat-normal-700.woff) format('woff');
+	unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 900;
+	src: url(Montserrat-normal-900.woff) format('woff');
+	unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+	font-family: 'Nunito Sans';
+	font-style: normal;
+	font-weight: 400;
+	src: url(Nunito_Sans-normal-400.woff) format('woff');
+	unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+	font-family: 'Nunito Sans';
+	font-style: normal;
+	font-weight: 600;
+	src: url(Nunito_Sans-normal-600.woff) format('woff');
+	unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+	font-family: 'Nunito Sans';
+	font-style: normal;
+	font-weight: 700;
+	src: url(Nunito_Sans-normal-700.woff) format('woff');
+	unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+	font-family: 'Ubuntu';
+	font-style: normal;
+	font-weight: 500;
+	src: url(Ubuntu-normal-500.woff) format('woff');
+	unicode-range: U+0-10FFFF;
+}
+
